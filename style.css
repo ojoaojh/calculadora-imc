@@ -55,6 +55,9 @@ main {
 button {
     width: 300px;
     height: 40px;
+    padding: 10px 16px;
+    background-color: #6e3b3b;
+    cursor: pointer;
 }
 
 .result{
